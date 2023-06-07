@@ -2,26 +2,103 @@
 C:\Users\linka\source\repos\Zoologico\Zoologico\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
 C:\Users\linka\source\repos\Zoologico\Zoologico\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
 C:\Users\linka\source\repos\Zoologico\Zoologico\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(755,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(756,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(760,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(761,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(763,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(764,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(772,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(340,30): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(399,15): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(433,22): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(435,22): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(437,22): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(439,22): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(610,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(612,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(620,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(622,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(630,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(632,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(640,42): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(642,42): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(650,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(652,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(660,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(662,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(670,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(672,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(680,42): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(682,42): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(690,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(692,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(700,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(702,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(710,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(712,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(720,43): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(722,43): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(730,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(732,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(740,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(742,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(750,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(752,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(760,43): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(762,43): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(770,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(772,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(780,43): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(782,43): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(790,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(791,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(792,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(794,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(800,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(801,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(802,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(804,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(805,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(806,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(810,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(811,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(812,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(814,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(815,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(820,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(821,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(822,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(824,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(825,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(830,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(831,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(832,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(834,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(835,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(840,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(841,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(842,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(844,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(850,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(851,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(852,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(854,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(855,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(860,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(861,35): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(862,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(864,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(865,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(868,36): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(869,41): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(870,42): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(871,41): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(872,42): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(874,41): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(875,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(876,40): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(1373,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(1374,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(1378,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(1379,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(1381,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(1382,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\linka\source\repos\Zoologico\Zoologico\Final.cpp(1390,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
 glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
 glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_thread.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
 glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(osmesa_context.obj)' o en 'C:\Users\linka\source\repos\Zoologico\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
   Zoologico.vcxproj -> C:\Users\linka\source\repos\Zoologico\Debug\Zoologico.exe

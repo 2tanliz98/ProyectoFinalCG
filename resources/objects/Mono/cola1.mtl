@@ -1,0 +1,12 @@
+# Blender 3.5.1 MTL File: 'monochido.blend'
+# www.blender.org
+
+newmtl 360_XOW_AMB_MON_BRO_B
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.025000 0.025000 0.025000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd X360_XO-W_AMBIANT_Monkey_Brown_Body_D.png

@@ -1,0 +1,2 @@
+C:/Users/linka/source/repos/CG_08_20232/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/linka/source/repos/CG_08_20232/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd dinosick.png
+
+
+newmtl Material.00005a
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd dinosick.png
+
+
+newmtl Material.0000a1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd dinosick.png
+

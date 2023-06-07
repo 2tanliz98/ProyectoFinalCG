@@ -1,0 +1,45 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd male.png
+
+
+newmtl Material.0001aa
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd teeth.png
+
+
+newmtl Material.0001da
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd male.png
+
+
+newmtl Material.0002af
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd male.png
+
+
+newmtl Material.0004d2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd teeth.png
+
